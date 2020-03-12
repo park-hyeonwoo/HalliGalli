@@ -1,0 +1,1 @@
+start javaw -jar ./test3.jar
